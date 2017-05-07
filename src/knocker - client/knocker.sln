@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "knocker", "knocker.vcxproj", "{614BEF1E-7D97-4D66-96F2-F5042F707E59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{614BEF1E-7D97-4D66-96F2-F5042F707E59}.Debug|Win32.ActiveCfg = Debug|Win32
+		{614BEF1E-7D97-4D66-96F2-F5042F707E59}.Debug|Win32.Build.0 = Debug|Win32
+		{614BEF1E-7D97-4D66-96F2-F5042F707E59}.Release|Win32.ActiveCfg = Release|Win32
+		{614BEF1E-7D97-4D66-96F2-F5042F707E59}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+[main]
+knock_port = 9831
+source_ip=192.168.56.1
+auth_packet_delay = 100
+auth_packet_timeout = 10
